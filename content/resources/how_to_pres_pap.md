@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 424da561-d94f-286c-45e3-e51b3e76615a
 resourcetype: Document
 title: How to give a Paper Presentation
 uid: 65b6ae15-3c84-68b4-d095-c6b60a79d863
