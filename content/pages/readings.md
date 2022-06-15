@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations for required readings and recommended
+  readings for each session of the course. Key reading questions are also provided.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
