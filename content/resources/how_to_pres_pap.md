@@ -5,6 +5,7 @@ file: /courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: How to give a Paper Presentation
 uid: 65b6ae15-3c84-68b4-d095-c6b60a79d863
 ---
 Guidelines and tips on giving scientific oral presentations.
-
