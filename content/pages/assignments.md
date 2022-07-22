@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines for giving oral presentations and leading
+  discussions on primary research articles with the class.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 424da561-d94f-286c-45e3-e51b3e76615a
 ---
@@ -9,7 +14,7 @@ Oral Presentations
 
 Each student is required to give 2-3 oral presentations and lead discussions on primary research articles with the class.
 
-### How to give a Paper Presentation: A Discussion of Good Presentation Techniques ([PDF]({{< baseurl >}}/resources/how_to_pres_pap))
+### How to give a Paper Presentation: A Discussion of Good Presentation Techniques ({{% resource_link 65b6ae15-3c84-68b4-d095-c6b60a79d863 "PDF" %}})
 
 Scientific oral presentations are not simply readings of scientific manuscripts. Overall, your scientific talk should be organized into sections that parallel the sections in the scientific paper. As in the scientific paper, the key sections are:
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations for required readings and recommended
+  readings for each session of the course. Key reading questions are also provided.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3eb608ac-7d41-1bd0-d5fe-b67a0cca20c3
 ---
