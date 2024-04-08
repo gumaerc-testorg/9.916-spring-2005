@@ -51,7 +51,7 @@ Introductory Lectures
 
 _Required Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/high-level-vision) Ullman, S. [_High-level Vision_](https://mitpress.mit.edu/books/high-level-vision). Cambridge, MA: MIT Press, 1996, chapters 1 and 2. ISBN: 0262710072.
+{{% resource_link "56b6b589-7286-4bf4-ad3e-976a5b537fd8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ullman, S. {{% resource_link "56b6b589-7286-4bf4-ad3e-976a5b537fd8" "_High-level Vision_" %}}. Cambridge, MA: MIT Press, 1996, chapters 1 and 2. ISBN: 0262710072.
 
 Riesenhuber, M., and T. Poggio. "Models of object recognition." _Nature Neuroscience_ 3 Suppl (2000): 1199-1204.
 
@@ -73,7 +73,7 @@ Kandel, and Schwartz. _Principles of Neural Science_. 4th ed. New York, NY: McGr
 
 More Ventral Stream Background:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/visual-neurosciences-2-vol-set) Chalupa, and Werner. [_The Visual Neurosciences_](https://mitpress.mit.edu/books/visual-neurosciences-2-vol-set). Cambridge, MA: MIT Press, November 2003, chapter 78. ISBN: 0262033089. (E. Rolls)
+{{% resource_link "04b81e20-1d52-429b-bb2e-acb522e210c2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chalupa, and Werner. {{% resource_link "04b81e20-1d52-429b-bb2e-acb522e210c2" "_The Visual Neurosciences_" %}}. Cambridge, MA: MIT Press, November 2003, chapter 78. ISBN: 0262033089. (E. Rolls)
 
 Tanaka, K. "Mechanisms of visual object recognition: monkey and human studies." _Curr Opin Neurobiol_ 7 (1997): 523-529.
 
@@ -178,7 +178,7 @@ Levy, I., U. Hasson, and R. Malach. "One picture is worth at least a million neu
 
 Spatially Localized Representations and Maps:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/visual-neurosciences-2-vol-set) Kanwisher, N. Chalupa, and Werner. [_The Visual Neurosciences_](https://mitpress.mit.edu/books/visual-neurosciences-2-vol-set). Cambridge, MA: MIT Press, November 2003, chapter 79. ISBN: 0262033089.
+{{% resource_link "04b81e20-1d52-429b-bb2e-acb522e210c2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kanwisher, N. Chalupa, and Werner. {{% resource_link "04b81e20-1d52-429b-bb2e-acb522e210c2" "_The Visual Neurosciences_" %}}. Cambridge, MA: MIT Press, November 2003, chapter 79. ISBN: 0262033089.
 
 Kohonen, T., and R. Hari. "Where the abstract feature maps of the brain might come from." _Trends in Neurosciences_ 22 (1999): 135-139.
 
@@ -658,7 +658,7 @@ Attention and Object Recognition
 
 _Required Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/cognitive-neurosciences-iii-third-edition) Treisman, A. "Psychological Issues in Selective Attention." In [_The Cognitive Neurosciences III_.](https://mitpress.mit.edu/books/cognitive-neurosciences-iii-third-edition) Edited by Gazzaniga. Cambridge, MA: MIT Press, c2004. ISBN: 0262072548.
+{{% resource_link "bc96c2f8-11ef-425d-a275-490903bac97b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Treisman, A. "Psychological Issues in Selective Attention." In {{% resource_link "bc96c2f8-11ef-425d-a275-490903bac97b" "_The Cognitive Neurosciences III_." %}} Edited by Gazzaniga. Cambridge, MA: MIT Press, c2004. ISBN: 0262072548.
 
 Maunsell, J. H. R. "The brain's visual world: representation of visual targets in cerebral cortex." _Science_ 270 (1995): 764-769.
 
@@ -668,7 +668,7 @@ Itti, L., and C. Koch. "Computational modelling of visual attention." _Nature Re
 
 Desimone, R., and J. Duncan. "Neural mechanisms of selective visual attention." _Annu Rev Neurosci_ 18 (1995): 193-222.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/cognitive-neurosciences-iii-third-edition) Freiwald, W. A., and N. Kanwisher. "Visual Selective Attention: insights from Brain Imaging and Neurophysiology." In [_The Cognitive Neurosciences III_.](https://mitpress.mit.edu/books/cognitive-neurosciences-iii-third-edition) Edited by Gazzaniga. Cambridge, MA: MIT Press, c2004. ISBN: 0262072548.
+{{% resource_link "bc96c2f8-11ef-425d-a275-490903bac97b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Freiwald, W. A., and N. Kanwisher. "Visual Selective Attention: insights from Brain Imaging and Neurophysiology." In {{% resource_link "bc96c2f8-11ef-425d-a275-490903bac97b" "_The Cognitive Neurosciences III_." %}} Edited by Gazzaniga. Cambridge, MA: MIT Press, c2004. ISBN: 0262072548.
 
 _Supplemental Readings (Required to read at least two 'to be presented' papers, indicated by \*)_
 
